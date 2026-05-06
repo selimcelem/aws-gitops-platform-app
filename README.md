@@ -41,3 +41,7 @@ aws-gitops-platform-app/
 ## Status
 
 Project scaffolded. Service code and CI workflows in progress.
+
+## Project brief
+
+The full requirements for this project are in [PROJECT_BRIEF.md](PROJECT_BRIEF.md).
