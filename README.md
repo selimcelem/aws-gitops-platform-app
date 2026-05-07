@@ -45,3 +45,7 @@ Project scaffolded. Service code and CI workflows in progress.
 ## Project brief
 
 The full requirements for this project are in [PROJECT_BRIEF.md](PROJECT_BRIEF.md).
+
+## Architecture decisions
+
+Major architecture decisions, including the choice to self-install ArgoCD via Terraform `helm_release` (rather than the AWS-managed EKS Capability) and the two-pipeline CI/CD pattern, are documented in the config repo at [docs/adr/](https://github.com/selimcelem/aws-gitops-platform-config/tree/main/docs/adr).
