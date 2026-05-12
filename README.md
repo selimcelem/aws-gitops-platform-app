@@ -1,4 +1,9 @@
-﻿# aws-gitops-platform-app
+﻿![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonecr&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+# aws-gitops-platform-app
 
 Application source for a GitOps-driven Kubernetes platform on AWS. This repo holds the API and worker service code and the CI pipelines that build them. All Kubernetes configuration and infrastructure lives in the companion repo: [aws-gitops-platform-config](https://github.com/selimcelem/aws-gitops-platform-config).
 
